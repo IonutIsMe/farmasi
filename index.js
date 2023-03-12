@@ -54,6 +54,13 @@ languageButton.forEach(e => {
     });
 });
 
+// document.getElementsByClassName("register-button").onclick = function () {
+//     location.href = "https://www.farmasi.es/gabrielagavita";
+// };
+// document.getElementsByClassName("register-button").onclick = function () {
+//     location.href = "https://www.farmasi.es/gabrielagavita";
+// };
+
 export const data = {
     "ro":
     {
@@ -80,7 +87,7 @@ export const data = {
     "es":
     {
         "first_section_title": "Hola,",
-        "first_section_description": "Quando viene a España encontré un país con gente maravillosa, cálida, abierta, con una cultura de que  me enamoró! Actualmente soy influencer de belleza de la gran familia Farmasi, que ha abierto sus puertas en España, Alemania, Portugal y próximamente en la República de Moldavia!",
+        "first_section_description": "Mi nombre es Gabriela Gavita y soy madre de un niño y hace de 3 años yo veine a España para una vida mejor y para ajudar más a mi niño. Quando viene a España encontré un país con gente maravillosa, cálida, abierta, con una cultura de que  me enamoró! Actualmente soy influencer de belleza de la gran familia Farmasi, que ha abierto sus puertas en España, Alemania, Portugal y próximamente en la República de Moldavia!",
         "second_section_left_title": "Oportunidad",
         "second_section_left_description1": "¡¡La gran inauguración ha tenido lugar!!  ¿Estás listo para el éxito de Farmasi?",
         "second_section_left_description2": "En el siguiente formulario podrás unirte a mi equipo",
@@ -88,13 +95,13 @@ export const data = {
         "second_section_left_description4": "Farmasi Cosmetics, con el mayor crecimiento a nivel mundial en los últimos 3 años en México, USA, Turquía, Rumania, Costa Rica y otros 20 países, ha regalado alegrías y logros a las personas que decidieron acompañarnos.",
         "second_section_right_title": "¡¡Ahora tienes una oportunidad que no querrás perder!!",
         "second_section_right_description1": "Si quieres unirte a la familia Farmasi, una de las empresas más importantes del mundo, y quieres aprender y evolucionar, ¡estás en el lugar correcto!",
-        "second_section_right_description2": " ¡Puedo brindarte todo el apoyo posible y guiarte hacia tu sueño, que puede convertirse en realidad!",
+        "second_section_right_description2": "¡Puedo brindarte todo el apoyo posible y guiarte hacia tu sueño, que puede convertirse en realidad!",
         "register_button": "Registro",
         "third_section_title": "Sobre influencers de belleza",
         "third_section_description": "Si eres una persona ambiciosa, trabajadora, abierta, te gusta trabajar con personas y ¿Quieres beneficiarte de vacaciones, horario flexible y tener un ingreso extra? Te espero tenerte en mi equipo!y",
-        "third_section_benefits1": "el registro es gratuito",
-        "third_section_benefits2": "después de activar su cuenta, le ofrecemos un descuento entre 30-50% en comparación con el precio del catálogo",
-        "third_section_benefits3": "te beneficias de regalos en los primeros 4 meses y formación",
+        "third_section_benefits1": "El registro es gratuito",
+        "third_section_benefits2": "Después de activar su cuenta, le ofrecemos un descuento entre 30-50% en comparación con el precio del catálogo",
+        "third_section_benefits3": "Te beneficias de regalos en los primeros 4 meses y formación",
         "third_section_benefits4": "¡No tienes ninguna obligación en la familia Farmasi!",
         "catalog_button": "Catálogo",
     },

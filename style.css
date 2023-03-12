@@ -31,15 +31,15 @@
 
 .main-content {
     background-color: #ECE8E5;
-    margin-left: 20px;
-    margin-right: 20px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
 }
 
 .description-content {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    /* display: flex;
+    justify-content: space-between; */
+    /* padding-top: 20px;
+    padding-bottom: 20px; */
 }
 
 .description-text {
